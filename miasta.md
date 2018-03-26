@@ -16,3 +16,18 @@
 |Warszawa|1|
 |Wrocław|1|
 
+```
+Białystok
+Bielsko-Biała
+Bydgoszcz
+Gdańsk
+Katowice
+Kraków
+Łódź
+Lublin
+Poznań
+Szczecin
+Toruń
+Warszawa
+Wrocław
+```
