@@ -1,7 +1,7 @@
-# Lista miast Meet.js
+# Cities of Meet.js
 
-|miasto|aktywne|
-| --- | --- |
+| City | active | repo link | default contact | notes |
+| ---- | ------ | --------- | --------------- | ----- |
 |Białystok|1|
 |Bielsko-Biała|1|
 |Bydgoszcz|?|
@@ -16,6 +16,8 @@
 |Warszawa|1|
 |Wrocław|1|
 
+
+### copy-paste list
 ```
 Białystok
 Bielsko-Biała
