@@ -8,8 +8,9 @@
 |Gdańsk|1|
 |Katowice|1|
 |Kraków|1|
-|Łódź|1|
 |Lublin|1|
+|Łódź|1|
+|Olsztyn|1|
 |Poznań|1|
 |Szczecin|1|
 |Toruń|1|
@@ -25,8 +26,9 @@ Bydgoszcz
 Gdańsk
 Katowice
 Kraków
-Łódź
 Lublin
+Łódź
+Olsztyn
 Poznań
 Szczecin
 Toruń
