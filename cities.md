@@ -10,7 +10,7 @@
 |Kraków|1|
 |Lublin|1|
 |Łódź|1|
-|Olsztyn|1|
+|Olsztyn|1||michal+meetjs@kwiatek.it||
 |Poznań|1|https://github.com/meetjspl/poznan|poznan@meetjs.pl||
 |Szczecin|1|
 |Toruń|1|
