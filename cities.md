@@ -15,7 +15,7 @@
 | Szczecin      | 1      |                                    | https://www.messenger.com/t/karol.fabjanczuk                                                        |
 | Toruń         | 1      |                                    | https://github.com/meetjspl/torun/issues                                                            |
 | Warszawa      | 1      |                                    | warszawa@meetjs.pl                                                                                  |
-| Wrocław       | 1      |                                    | meetjs@monterail.com                                                                                |
+| Wrocław       | 1      |                                    | hubert.zub@gmail.com                                                                                |
 
 
 ### copy-paste list
