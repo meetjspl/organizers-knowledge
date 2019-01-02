@@ -8,6 +8,7 @@
 | Gdańsk        | 1      |                                           | michal+meet.js@miszczyszyn.com arkadiuszputko+meet.js@gmail.com wojtek@urbanski.pro nowacki.lukasz+meetjs@gmail.com |       |
 | Katowice      | 1      | https://github.com/meetjspl/katowice      | katowice@meetjs.pl                                                                                                  |       |
 | Kraków        | 1      |                                           | meetjskrk@gmail.com krzychukula@gmail.com                                                                           |       |
+| Kielce        | 1      |                                           | damian.iwanski@gmail.com                                                                           |       |
 | Lublin        | 1      | https://github.com/meetjspl/lublin/issues |                                                                                                                     |       |
 | Łódź          | 1      | https://github.com/meetjspl/lodz/issues   |                                                                                                                     |       |
 | Olsztyn       | 1      |                                           | michal+meetjs@kwiatek.it                                                                                            |       |
@@ -26,6 +27,7 @@ Bydgoszcz
 Gdańsk
 Katowice
 Kraków
+Kielce
 Lublin
 Łódź
 Olsztyn
